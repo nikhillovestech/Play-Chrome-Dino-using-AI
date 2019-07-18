@@ -1,2 +1,2 @@
 # Play-Chrome-Dino-using-AI
-Chrome Dino Bot using Double DQN with Experience Replay
+A Double-Deep-Q-Learning Network with Experience Replay implementation to play the Chrome Dino game
